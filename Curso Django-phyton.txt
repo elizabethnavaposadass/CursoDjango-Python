@@ -1,0 +1,7 @@
+CURSO DJANGO/PYTHON
+1.- Se inicia con la descarga de Python
+2.- Se verifica en consola si la instalación fue exitosa mediante la siguiente línea de código
+C:\Users\HP>py
+3.- Uso de Django dentro de un entorno virtual de Python
+4.-Se instala la siguiente ruta pip3 install virtualenvwrapper-win
+5.-
